@@ -39,9 +39,11 @@ I'm currently learning web development and building projects to improve my progr
 
 <p align="left">
   <a href="https://github.com/Fayez-Ali-IT25026">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
   </a>
 </p>
+
+📧 **Email:** fayezali210906@gmail.com
 
 ## 📊 GitHub Stats
 
