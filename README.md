@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner.png" alt="Fayez Ali Profile Banner" width="100%" />
+</p>
+
 # Hi, I'm Fayez Ali 👋
 
 ### B.Sc. Engineering Student in ICT at MBSTU
