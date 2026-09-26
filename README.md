@@ -10,12 +10,17 @@ I'm an ICT student at Mawlana Bhashani Science and Technology University (MBSTU)
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying B.Sc. Engineering in Information and Communication Technology (ICT) at MBSTU
-- 🌱 Currently learning **React, Next.js, TypeScript and Tailwind CSS**
-- 💻 Building projects to improve my practical development skills
-- 📚 Learning **Data Structures & Algorithms**
-- 🚀 Exploring modern web development technologies
+I'm a B.Sc. Engineering student in Information and Communication Technology (ICT) at Mawlana Bhashani Science and Technology University (MBSTU).
 
+I'm currently learning web development and building projects to improve my programming and development skills. I enjoy exploring new technologies, solving problems, and turning ideas into working projects.
+
+### 🚀 Currently
+
+- 🎓 Studying ICT at MBSTU
+- 🌱 Learning React, Next.js, TypeScript and Tailwind CSS
+- 💻 Building projects to improve my practical skills
+- 📚 Practicing Data Structures & Algorithms
+- 🔧 Learning Git and GitHub
 ## 🛠️ Skills & Technologies
 
 <p align="left">
