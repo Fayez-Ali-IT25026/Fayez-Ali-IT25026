@@ -23,17 +23,44 @@ I'm currently learning web development and building projects to improve my progr
 - 🔧 Learning Git and GitHub
 ## 🛠️ Skills & Technologies
 
+### 🎨 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,c,cpp,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Better_Auth-333333?style=for-the-badge&logo=auth0&logoColor=white" />
+</p>
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HeroUI-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 </p>
 
 ## 📌 Current Focus
 
-- Learning React and Next.js
-- Improving TypeScript skills
-- Building frontend projects
-- Practicing Data Structures & Algorithms
-- Learning Git and GitHub
+- 🚀 Building projects with React, Next.js and TypeScript
+- 🎨 Improving UI development with Tailwind CSS, HeroUI, shadcn/ui and DaisyUI
+- 🔐 Learning authentication with Better Auth
+- ⚙️ Improving backend development with Node.js, Express.js and MongoDB
+- 💻 Practicing Data Structures & Algorithms
+- 🔧 Improving Git and GitHub workflow
 
 ## 🌐 Connect With Me
 
